@@ -87,7 +87,7 @@ namespace WebApplicationTesteMiddleware
 
         private static async Task<string> ObterRequestBody(HttpContext context)
         {
-            RecyclableMemoryStreamManager recyclableMemoryStreamManager = new RecyclableMemoryStreamManager(); ;
+            RecyclableMemoryStreamManager recyclableMemoryStreamManager = new RecyclableMemoryStreamManager();
 
             context.Request.EnableBuffering();
 
