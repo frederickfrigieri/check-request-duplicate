@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OOzDDrzlpDHYwqwcbsYmvC/ltS+h6EwWMTIIQk8KDbTS/KGZLK8tDe49W6vVnw274EyKQ2ifMs/BW87OlY4AHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fred\\source\\repos\\WebApplicationTesteMiddleware\\WebApplicationTesteMiddleware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fred\\.nuget\\packages\\microsoft.io.recyclablememorystream\\2.2.0\\microsoft.io.recyclablememorystream.2.2.0.nupkg.sha512",
+    "C:\\Users\\fred\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
